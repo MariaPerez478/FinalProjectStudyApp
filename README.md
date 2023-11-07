@@ -121,6 +121,7 @@ This app is for students and it allows the user to keep up with their tasks by m
 ### What I have done in my app
 - Above are all the activities from assignment 1
 - Video: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/92bcc321a0a9437f8945d5768f051620?sid=fedceb3e-556c-46d9-b3fd-0fc493caccac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+- Hours Spent: 6.5
 
 
 ### Step 6: Peer Reviews
