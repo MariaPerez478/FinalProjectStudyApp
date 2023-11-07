@@ -63,3 +63,65 @@ This app is for students and it allows the user to keep up with their tasks by m
 
 # Wireframes
 ![IMG_8812.jpg](https://hackmd.io/_uploads/SJxITLv76.jpg)
+
+## Assignment 2: Sprint Planning and Development
+
+### Step 1: Identify Main Features
+
+
+- Home Screen displays a bat and a message "Time to Study!"
+- Timer detail screen (can set the timer)
+- Tasks detail screen (create/delete/edit/completed)
+- Calendar detail screnn (completed/show tasks)
+
+### Step 2: Breakdown into Sprints
+
+- Sprint 1: Set up the project and create the different views in main.
+- Sprint 2: Design and implement the Tasks screen.
+- Sprint 3: Design and implement the Calendar screen.
+- Sprint 4: Design and implement the Home Screen.
+- Sprint 4: Design and implement the Timer Screen
+
+### Step 3: Define Weekly Goals
+#### Week 1
+- Goal 1: Set up the project and review on the first two days
+- Goal 2: Code the Tasks screen and do a run to check that it works on the third day
+- Goal 3: Code the Calendar screen and do a run to check that it works on the fourth day
+- Goal 4: Get the icon of the bat and start planning on paper how the home page is going to be on the fifth day
+- Gaol 5: Start looking at different color schemes to decide on the second week
+- Goal 6: Do a try run to make sure that so far the programs works
+- Goal 7: Turn in the week 8 of CodePath
+
+
+### Step 4: GitHub Management
+- [] Sprint 1: Set up the project and create the different views in main.
+- [] Sprint 2: Design and implement the Tasks screen.
+- [] Sprint 3: Design and implement the Calendar screen.
+- [] Sprint 4: Design and implement the Home Screen.
+- [] Sprint 4: Design and implement the Timer Screen
+
+### Step 5: Weekly Submissions
+#### Achieved: 
+- I was able to design and implement the tasks screen
+- I was able to design and implement the calendar screen
+- I was able to get options for a different color scheme for week 2
+- I was able to find some bat logos for the button of the home screen and the home screen in general
+
+#### Challenges
+- Trying to make sure that everything runs smoothly 
+- Trting to figure out what colors would look good without looking to bland
+- Making sure to be on top of the work for this individual assignment 
+- Being individual makes it a little bit more challenging to design
+
+#### What's next...
+- Design and implementation of the home screen
+- Design and implementation of the timer screen
+- Maybe look into adding some optional features for better studying techniques 
+
+### What I have done in my app
+- Above are all the activities from assignment 1
+- Video: 
+
+
+### Step 6: Peer Reviews
+- I was not able to fin a peer to review their project and so a peer could not review my either.
