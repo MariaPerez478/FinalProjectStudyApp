@@ -80,7 +80,7 @@ This app is for students and it allows the user to keep up with their tasks by m
 - Sprint 2: Design and implement the Tasks screen.
 - Sprint 3: Design and implement the Calendar screen.
 - Sprint 4: Design and implement the Home Screen.
-- Sprint 4: Design and implement the Timer Screen
+- Sprint 5: Design and implement the Timer Screen
 
 ### Step 3: Define Weekly Goals
 #### Week 1
@@ -94,9 +94,9 @@ This app is for students and it allows the user to keep up with their tasks by m
 
 
 ### Step 4: GitHub Management
-- [] Sprint 1: Set up the project and create the different views in main.
-- [] Sprint 2: Design and implement the Tasks screen.
-- [] Sprint 3: Design and implement the Calendar screen.
+- [x] Sprint 1: Set up the project and create the different views in main.
+- [x] Sprint 2: Design and implement the Tasks screen.
+- [x] Sprint 3: Design and implement the Calendar screen.
 - [] Sprint 4: Design and implement the Home Screen.
 - [] Sprint 4: Design and implement the Timer Screen
 
