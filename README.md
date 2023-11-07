@@ -62,17 +62,4 @@ This app is for students and it allows the user to keep up with their tasks by m
     - =>  Timer
 
 # Wireframes
-[Add picture of your hand sketched wireframes in this section] 
-
-[BONUS] Digital Wireframes & Mockups
-[BONUS] Interactive Prototype
-Schema
-[This section will be completed in Unit 9]
-
-Models
-[Add table of models]
-
-Networking
-[Add list of network requests by screen ]
-[Create basic snippets for each Parse network request]
-[OPTIONAL: List endpoints if using existing API such as Yelp]
+![IMG_8812.jpg](https://hackmd.io/_uploads/SJxITLv76.jpg)
