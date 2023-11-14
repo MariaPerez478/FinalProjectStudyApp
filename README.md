@@ -97,8 +97,8 @@ This app is for students and it allows the user to keep up with their tasks by m
 - [x] Sprint 1: Set up the project and create the different views in main.
 - [x] Sprint 2: Design and implement the Tasks screen.
 - [x] Sprint 3: Design and implement the Calendar screen.
-- [] Sprint 4: Design and implement the Home Screen.
-- [] Sprint 4: Design and implement the Timer Screen
+- [x] Sprint 4: Design and implement the Home Screen. (NEW TASK COMPLETED)
+- [x] Sprint 4: Design and implement the Timer Screen. (NEW TASK COMPLETED)
 
 ### Step 5: Weekly Submissions
 #### Achieved: 
@@ -106,23 +106,39 @@ This app is for students and it allows the user to keep up with their tasks by m
 - I was able to design and implement the calendar screen
 - I was able to get options for a different color scheme for week 2
 - I was able to find some bat logos for the button of the home screen and the home screen in general
+- I was able to desing and implement the timer screen (NEW)
+- I was able to make the timer work even when leaving the app (NEW)
+- I was able to implement the home screen (NEW)
+- I created the label in the home screen (NEW)
 
 #### Challenges
 - Trying to make sure that everything runs smoothly 
 - Trting to figure out what colors would look good without looking to bland
 - Making sure to be on top of the work for this individual assignment 
 - Being individual makes it a little bit more challenging to design
+- Trying to connect the control for the timer was a little complictaed at first but after some past lessons review I was able to do it. (NEW)
+- Doing the timer was something new different so it was a lot of trial and error. (NEW)
+- Doing the homescreen was good though adding an image was challenging. (NEW)
+- Making the timer work after leaving the app took time. (NEW)
 
 #### What's next...
 - Design and implementation of the home screen
 - Design and implementation of the timer screen
-- Maybe look into adding some optional features for better studying techniques 
+- Maybe look into adding some optional features for better studying techniques
+- Adding the bats images to make it look like the name. (NEW)
+- Adding colors to the app to make it more theme like. (NEW)
+- Adding maybe a feature like famous characters. (NEW)
+- Adding a flashcard section for the future. (NEW)
 
 ### What I have done in my app
 - Above are all the activities from assignment 1
+- Above with new are the new edits from the week and I have marked as done the required features.
 - Video: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/92bcc321a0a9437f8945d5768f051620?sid=fedceb3e-556c-46d9-b3fd-0fc493caccac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+- New Video: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/4459abbeeaf843b8a3f303a0cce0d6e9?sid=ad6c54bb-6b06-4e82-a73f-f7ff27c86f87" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 - Hours Spent: 6.5
+- Hours Spent New: 3.0
 
 
 ### Step 6: Peer Reviews
 - I was not able to fin a peer to review their project and so a peer could not review my either.
+- I was not able to find a peer review nor could I review another peer. (NEW)
