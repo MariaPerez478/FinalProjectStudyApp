@@ -91,6 +91,8 @@ This app is for students and it allows the user to keep up with their tasks by m
 - Gaol 5: Start looking at different color schemes to decide on the second week
 - Goal 6: Do a try run to make sure that so far the programs works
 - Goal 7: Turn in the week 8 of CodePath
+- Goal 8: Change the colors (NEW)
+- Goal 9: Add images(NEW)
 
 
 ### Step 4: GitHub Management
@@ -98,7 +100,9 @@ This app is for students and it allows the user to keep up with their tasks by m
 - [x] Sprint 2: Design and implement the Tasks screen.
 - [x] Sprint 3: Design and implement the Calendar screen.
 - [x] Sprint 4: Design and implement the Home Screen. (NEW TASK COMPLETED)
-- [x] Sprint 4: Design and implement the Timer Screen. (NEW TASK COMPLETED)
+- [x] Sprint 5: Design and implement the Timer Screen. (NEW TASK COMPLETED)
+- [x] Sprint 6: Change the color to brown to give more of a dark academia vibe. (NEWEST TASK COMPLETED)
+- [x] Sprint 7: Add images of a bat as app icon and lockscreen and timer. (NEWEST TASK COMPLETED) 
 
 ### Step 5: Weekly Submissions
 #### Achieved: 
@@ -110,6 +114,10 @@ This app is for students and it allows the user to keep up with their tasks by m
 - I was able to make the timer work even when leaving the app (NEW)
 - I was able to implement the home screen (NEW)
 - I created the label in the home screen (NEW)
+- I was able to change the color of the letters to a light brown (NEWEST)
+- I found an image of a bat for the bat icon (NEWEST)
+- I added the image of the bast for my lock screen (NEWEST)
+- I added the image of the bat for the timer screen (NEWEST)
 
 #### Challenges
 - Trying to make sure that everything runs smoothly 
@@ -120,6 +128,9 @@ This app is for students and it allows the user to keep up with their tasks by m
 - Doing the timer was something new different so it was a lot of trial and error. (NEW)
 - Doing the homescreen was good though adding an image was challenging. (NEW)
 - Making the timer work after leaving the app took time. (NEW)
+- Making sure that the image view was connected correctly. (NEWEST)
+- Making sure that the size of the image was correct. (NEWEST)
+- Makign sure that the color of the image matches the color of the letters. (NEWEST)
 
 #### What's next...
 - Design and implementation of the home screen
@@ -129,16 +140,24 @@ This app is for students and it allows the user to keep up with their tasks by m
 - Adding colors to the app to make it more theme like. (NEW)
 - Adding maybe a feature like famous characters. (NEW)
 - Adding a flashcard section for the future. (NEW)
+- Adding more images of bats. (NEWEST)
+- Adding more dark colors. (NEWEST)
+- Fixing the timer heading. (NEWEST)
 
 ### What I have done in my app
 - Above are all the activities from assignment 1
 - Above with new are the new edits from the week and I have marked as done the required features.
+- Above with newest are the newwest edits from the week and I have marked as done the new added goals.
 - Video: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/92bcc321a0a9437f8945d5768f051620?sid=fedceb3e-556c-46d9-b3fd-0fc493caccac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 - New Video: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/4459abbeeaf843b8a3f303a0cce0d6e9?sid=ad6c54bb-6b06-4e82-a73f-f7ff27c86f87" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+- Newest Video: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ea8e929107654ecea25e3ad4665288fe?sid=1fcc1f0c-5b9b-4955-a8c9-f122b4e09f3a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+  
 - Hours Spent: 6.5
 - Hours Spent New: 3.0
+- Hours Spent Newest: 2.0
 
 
 ### Step 6: Peer Reviews
 - I was not able to fin a peer to review their project and so a peer could not review my either.
 - I was not able to find a peer review nor could I review another peer. (NEW)
+- I was able to receive good peer review during the presentation which is how I chose my image. (NEWEST)
